@@ -9,7 +9,7 @@
     <Copyright>NuMedics 2017</Copyright>
     <RepositoryType>GIT</RepositoryType>
     <RepositoryUrl>http://ov-sharepoint:8080/tfs/NETCoreCollection/NuEncryption/</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>

@@ -10,6 +10,8 @@
     <RepositoryType>GIT</RepositoryType>
     <RepositoryUrl>http://ov-sharepoint:8080/tfs/NETCoreCollection/NuEncryption/</RepositoryUrl>
     <Version>1.0.2</Version>
+    <VersionPrefix>1.0.3</VersionPrefix>
+    <VersionSufix>Dev13</VersionSufix>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>

@@ -1,7 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>NuMedics Dev Team</Authors>
+    <Company>NuMedics, Inc.</Company>
+    <Product>NuEncryption Library</Product>
+    <Description>Library for encrypting and decrypting string values</Description>
+    <Copyright>NuMedics 2017</Copyright>
+    <RepositoryUrl>http://ov-sharepoint:8080/tfs/NETCoreCollection/NuEncryption/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Version>1.0.2</Version>
+    <VersionPrefix>1.0.9</VersionPrefix>
+    <VersionSufix>Dev</VersionSufix>
+    <AssemblyVersion>1.0.0.3</AssemblyVersion>
+    <FileVersion>1.0.0.3</FileVersion>
   </PropertyGroup>
 
 </Project>

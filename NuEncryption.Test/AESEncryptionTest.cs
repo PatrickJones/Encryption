@@ -35,7 +35,7 @@ namespace NuEncryption.Test
             //Act
             var encrypted = AESEncryption.Encrypt(encryptString);
             //Assert
-            Assert.AreEqual(64, encrypted.Length);
+            Assert.AreEqual(63, encrypted.Length);
         }
 
         /// <summary>

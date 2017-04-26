@@ -6,7 +6,7 @@ using System.Text;
 
 namespace NuEncryption
 {
-    public class AESEncryption
+    public static class AESEncryption
     {
         /// <summary>
         /// Encrypts a byte[] using AES algorithm.

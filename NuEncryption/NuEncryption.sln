@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.3
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuEncryption", "NuEncryption.csproj", "{2EDBB3C2-D33F-48EA-BC59-CC41C09E5893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuEncryption.Test", "..\NuEncryption.Test\NuEncryption.Test.csproj", "{61A1DBCD-A89D-48D2-BFF4-E38444D3DC8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2EDBB3C2-D33F-48EA-BC59-CC41C09E5893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EDBB3C2-D33F-48EA-BC59-CC41C09E5893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EDBB3C2-D33F-48EA-BC59-CC41C09E5893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A1DBCD-A89D-48D2-BFF4-E38444D3DC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A1DBCD-A89D-48D2-BFF4-E38444D3DC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A1DBCD-A89D-48D2-BFF4-E38444D3DC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A1DBCD-A89D-48D2-BFF4-E38444D3DC8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

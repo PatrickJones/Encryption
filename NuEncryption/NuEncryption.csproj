@@ -16,4 +16,8 @@
     <FileVersion>2.0.0.3</FileVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MermaidNet" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
